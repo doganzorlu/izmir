@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "izmir"
+version = "0.1.0"
+description = ""
+authors = ["Dogan ZORLU <doganzorlu@doganzorlu.com>"]
+license = "GPL"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "requests"
+requests = "^2.25.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
