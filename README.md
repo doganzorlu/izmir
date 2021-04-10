@@ -1,7 +1,7 @@
 # izmir
 Data Analysis Based on Izmir Open Data Portal
 
-This sample project is contains;
+This sample project contains;
 
 * Scraper code for Izmir open data portal
 * Air Quality data of Izmir since 2000
